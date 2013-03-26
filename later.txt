@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+this is same file from some other doc
+=======
+raju is created from some other drive
+>>>>>>> 9e82f0689668c34dc90adc1bff84816cf42fbd34
 raju is created 
 my name is not a naga
